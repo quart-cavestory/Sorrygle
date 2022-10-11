@@ -237,4 +237,6 @@ There are some default emoji declarations below. Of course you can overwrite.
 ```
 
 ## License
-MIT
+The MIT License (MIT)
+
+Copyright (c) 2022 JJoriping
